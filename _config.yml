@@ -142,11 +142,11 @@ content:
   - title: ¿Qué hago cuando no estoy en frente de una pantalla?
     layout: text
     content: | # this will include new lines to allow paragraphs
-        quote: >
-            Lo que busco por encima de todo es la grandeza: lo que es grande es siempre bello
+    quote: >
+        Lo que busco por encima de todo es la grandeza: lo que es grande es siempre bello
 
-        description: |
-            Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
+    description: |
+        Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
             - Fútbol
             - Ciencia ficción (lean el "Problema de los Tres Cuerpos")
             - Fantasía (lean el "Principe de las Espinas")
