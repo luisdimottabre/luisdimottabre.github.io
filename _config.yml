@@ -1,31 +1,30 @@
 # Site
-repository: sproogen/resume-theme
+repository: luisdimottabre/luisdimottabre.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Luis Dimotta Bré
+title: Economista Especializado en Finanzas
+email: luisndimotta@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+github_username: luisdimottabre
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: Luis Dimotta Bré
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +47,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hola, me llamo Luis y soy un economista graduado
+  en la Universidad Nacional de La Plata. Tengo una pasión
+  por las finanzas de la manera en que la define Robert Shiller,
+  "una ingenieria para lograr objetivos". Estoy buscando la oportunidad de desarrollar mi carrera en el Mercado de Capitales, aunque tambien considero que la Energía y los Agronegocios tienen su rol en el futuro. Hasta este punto de mi vida trabaje en consultorias y en la facultad de economía, disciplina y liderazgo en el proceso.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Soy más habilidoso en: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark>, con una maestría en <mark>Comer Pastas</mark>.
 
 content:
   - title: Projects # Title for the section
@@ -103,14 +105,15 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
+      - Fútbol
+      - Ciencia ficción (lean el "Problema de los Tres Cuerpos")
+      - Fantasía (lean el "Pricipe de las Espinasq ")
+      - Historia (lean la saga "Los reyes malditos")
+      - Escalada
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Por último, les dejo una de mis pinturas favoritas de Nasmith:
+      ![Tuor llega a Gondolin](<p><a href="https://tolkiengateway.net/wiki/File:Ted_Nasmith_-_Tuor_Reaches_the_Hidden_City_of_Gondolin.jpg#/media/File:Ted_Nasmith_-_Tuor_Reaches_the_Hidden_City_of_Gondolin.jpg"><img src="https://tolkiengateway.net/w/images/f/f9/Ted_Nasmith_-_Tuor_Reaches_the_Hidden_City_of_Gondolin.jpg" alt="Ted Nasmith - Tuor Reaches the Hidden City of Gondolin.jpg" height="1055" width="1559"></a><br><a href="https://tolkiengateway.net/w/index.php?curid=8417">Link</a></p>)
 
 # Footer
 footer_show_references: true
