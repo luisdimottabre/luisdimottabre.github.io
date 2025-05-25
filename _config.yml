@@ -48,34 +48,51 @@ about_title: ¿Quién soy?
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, me llamo Luis y soy un economista graduado en la Universidad Nacional de La Plata. Tengo una pasión
-  por las finanzas de la manera en que la define Robert Shiller, "una ingenieria para lograr objetivos". Estoy buscando la oportunidad de desarrollar mi carrera en el Mercado de Capitales, aunque tambien considero que la Energía y los Agronegocios tienen su rol en el futuro. Hasta este punto de mi vida, he trabajado en consultorías y en la facultad de economía, desarrollando disciplina y liderazgo en el proceso.
+  por las finanzas de la manera en que la define Robert Shiller, "una ingenieria para lograr objetivos". Estoy buscando la oportunidad de desarrollar mi carrera en el Mercado de Capitales, aunque tambien considero que la Energía y los Agronegocios tienen su rol en el futuro. Hasta este punto de mi vida, he trabajado en consultorías y en la facultad de economía, desarrollando pensamiento analítico, resiliencia, disciplina y adaptabilidad en el proceso.
 
-  Soy más habilidoso con: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark>.
+  Soy más habilidoso con: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark> y obviamente <mark>Excel</mark>.
 
 content:
+  - title: Educación # Title for the section
+    layout: list # Type of content section (list/text)
+    border: strong # ojo acá
+    content:
+      - layout: left
+        title: Licenciatura en Ciencias Económicas
+        sub_title: Universidad Nacional de La Plata
+        caption: Marzo 2018 - Diciembre 2024
+        description: | # this will include new lines to allow paragraphs
+            > *Todavía tengo que ver un problema, por complicado que sea, que al mirarlo de forma correcta no se vuelva aún más complicado*.
+            <br>– <strong>Poul Anderson</strong>
+
+            La licenciatura me dio pocas herramientas duras (Stata y R fueron de las pocas), pero me dio la herramienta de los modelos y los paradigmas, la herramienta blanda de ver los fenómenos de cierta manera, porque no todo lo resuelve un martillo si no sabes si tenes que martillar, serruchar o hacer un agujero. Entender la economía es comprender que las multitudes tienen pasiones, no cerebros. Es precisamente esa comprensión la que busco aplicar para trascender el análisis y las perspectivas.
+
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Consultor pasante en Zaffi
         sub_title: Coequipo
         caption: Agosto 2024 - Diciembre 2024
         description: | # this will include new lines to allow paragraphs
-          Participé en la provisión de servicios de consultoría para la empresa de aberturas Zaffi, enfocados en la optimización de procesos y el perfeccionamiento de estructuras organizacionales. Colaboré en un equipo auditor en la identificación de ineficiencias operativas y el diseño de soluciones estratégicas, contribuyendo directamente a la mejora de la eficiencia y rentabilidad de los negocios de los clientes.
+          Participé en la provisión de servicios de consultoría para la empresa de aberturas Zaffi, donde nos enfocamos en la optimización de procesos y el perfeccionamiento de sus estructuras organizacionales. Se logró la identificación de ineficiencias operativas y se diseñaron soluciones acordes, contribuyendo directamente a la mejora de la eficiencia y rentabilidad del negocio de Zaffi.
 
       - layout: left
+        border: weak
         title: Becario de investigación Programa Pulso
         sub_title: Secretaría de Extensión Universitaria
         caption: Septiembre 2023 - Mayo 2024
         description: | # this will include new lines to allow paragraphs
-          Contribuí al diseño y armado técnico-metodológico de un directorio integral de ONGs para La Plata y alrededores, ampliando la base de datos de 100 a más de 1.000 organizaciones. Esto se logró mediante la aplicación de técnicas avanzadas de web-scraping y rigurosos procesos de validación de datos, mejorando significativamente la disponibilidad y calidad de información para la Secretaría de Extensión Universitaria.
+          Contribuí al diseño y armado técnico-metodológico de un directorio de organizaciones de la sociedad civil (OSC) para La Plata y alrededores, ampliando la base de datos de 100 a más de 1.000 organizaciones. Esto se logró mediante la aplicación de técnicas básicas de web-scraping y rigurosos procesos de validación de datos, mejorando significativamente la disponibilidad y calidad de información para la Secretaría de Extensión Universitaria.
 
       - layout: left
+        border: weak
         title: Startup Advisor
         sub_title: Usina de Ideas
         caption: Abril 2023 - Febrero 2024
         description: | # this will include new lines to allow paragraphs
-          Responsable de guiar a más de 2 startups a través del programa de aceleración, estableciendo objetivos claros y desarrollando planes de acción para alcanzar hitos clave de negocio y financiamiento. Asesoré junto a un equipo de expertos en la formulación de estrategias de crecimiento, optimización de modelos de negocio y preparación para rondas de inversión, contribuyendo al desarrollo y escalabilidad de los proyectos.
+          Responsable de guiar a 2 startups a través del programa de aceleración y semillero, estableciendo objetivos claros y desarrollando planes de acción para alcanzar hitos clave de negocio y financiamiento. Asesoré junto a un equipo de expertos en la formulación de estrategias de crecimiento, optimización de modelos de negocio y preparación para rondas de inversión, contribuyendo al desarrollo y escalabilidad de los proyectos.
 
       - layout: left
         title: Ayudante adjunto Introducción a la economía
@@ -84,29 +101,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Apoyé y asistí a más de 200 ingresantes anuales en la comprensión de los fundamentos económicos y el desarrollo de sus capacidades analíticas, contribuyendo a su éxito en la asignatura y colaboré activamente en la enseñanza y resolución de dudas, facilitando la adaptación de los estudiantes al entorno universitario y a los contenidos de la materia.
 
-  - title: Educación # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Licenciatura en Ciencias Económicas
-        sub_title: Universidad Nacional de La Plata
-        caption: Marzo 2018 - Diciembre 2024
-        quote: >
-          Todavía tengo que ver un problema, por complicado que sea, que al mirarlo de forma correcta no se vuelva aún más complicado.
-        description: | # this will include new lines to allow paragraphs
-          La licenciatura me dio pocas herramientas duras (Stata y R fueron de las pocas), pero me dio la herramienta de los modelos y los paradigmas, la herramienta blanda de ver los fenómenos de cierta manera, porque no todo lo resuelve un martillo si no sabes si tenes que martillar, serruchar o hacer un agujero. Entender la economía es comprender que las multitudes tienen pasiones, no cerebros. Es precisamente esa comprensión la que busco aplicar para trascender el análisis y los paradigmas.
-
   - title: Cursos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: FMAX - Financial Market Analysis
         sub_title: Fondo Monetario Internacional
         caption: Febrero 2025 - Abril 2025
         description: | # this will include new lines to allow paragraphs
-          Curso especializado en análisis de mercados financieros que abarca la valoración de instrumentos del mercado monetario, bonos y acciones. Se enfocó en relacionar las diferencias de valoración de acciones individuales y mercados con los fundamentos económicos subyacentes, desarrollando competencias para construir portafolios óptimos de activos riesgosos mediante el cálculo de Value at Risk (VaR) y evaluar cambios en su composición según las condiciones macroeconómicas.
+          Curso especializado en análisis de mercados financieros que abarca la valoración de instrumentos del mercado monetario, bonos y acciones en Excel. Se enfocó en relacionar las diferencias de valoración de acciones individuales y mercados con los fundamentos económicos subyacentes, desarrollando competencias para construir portafolios óptimos de activos riesgosos mediante el cálculo de Value at Risk (VaR) y evaluar cambios en su composición según las condiciones macroeconómicas.
 
       - layout: left
+        border: weak
         title: Programa de formación
         sub_title: Bolsa de Comercio de Rosario
         caption: Mayo 2023 - Octubre 2024
@@ -123,16 +130,17 @@ content:
   - title: ¿Qué hago cuando no estoy en frente de una pantalla?
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <p style="text-align: center; font-style: italic; margin: 20px 0;">Lo que busco por encima de todo es la grandeza, lo que es grande es siempre bello</p>
+      > *Lo que busco por encima de todo es la grandeza, lo que es grande es siempre bello*.
+      <br>– <strong>Napoleón Bonaparte</strong>
       
       Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita con amigos o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
-      - Fútbol
-      - Ciencia ficción (lean el *"Problema de los Tres Cuerpos"*)
-      - Fantasía (lean el *"Principe de las Espinas"*)
-      - Historia (lean la saga de *"Los reyes malditos"*)
-      - Senderismo
+      - Fútbol.
+      - Ciencia ficción (lean el *"Problema de los Tres Cuerpos"*).
+      - Fantasía (lean el *"Principe de las Espinas"*).
+      - Historia (lean la saga de *"Los reyes malditos"*).
+      - Senderismo.
 
-      Por último, les dejo una de mis pinturas favoritas de Nasmith sobre El Silmarillion:
+      Por último, les dejo una de mis pinturas favoritas de Ted Nasmith sobre El Silmarillion:
 
       <img src="images/gondolin.jpeg" alt="Tuor llega a Gondolin" style="width: 600px; height: auto; display: block; margin: 20px auto;">
 
