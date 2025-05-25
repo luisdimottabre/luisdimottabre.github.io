@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Soy más habilidoso con: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark>.
 
-#content:
+content:
 #  - title: Proyectos # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
@@ -111,9 +111,9 @@ about_content: | # this will include new lines to allow paragraphs
         sub_title: Universidad Nacional de La Plata
         caption: Marzo 2018 - Diciembre 2024
         quote: >
-          Lo que busco por encima de todo es la grandeza: lo que es grande es siempre bello
+          Todavía tengo que ver un problema, por complicado que sea, que al mirarlo de forma correcta no se vuelva aún más complicado.
         description: | # this will include new lines to allow paragraphs
-          Durante mi licenciatura, adquirí una sólida base en análisis macroeconómico y comercio internacional. Desarrollé habilidades en limpieza, validación y visualización de grandes bases de datos utilizando Python, Stata y Excel avanzado.
+          La licenciatura me dio pocas herramientas duras (Stata y R fueron de las pocas), pero me dio la herramienta de los modelos y los paradigmas, la herramienta blanda de ver los fenómenos de cierta manera, porque no todo lo resuelve un martillo si no sabes si tenes que martillar, serruchar o hacer un agujero. Entender la economía es comprender que las multitudes tienen pasiones, no cerebros. Es precisamente esa comprensión la que busco aplicar para trascender el análisis y los paradigmas.
 
   - title: Cursos # Title for the section
     layout: list # Type of content section (list/text)
@@ -149,7 +149,7 @@ about_content: | # this will include new lines to allow paragraphs
       Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
       - Fútbol
       - Ciencia ficción (lean el "Problema de los Tres Cuerpos")
-      - Fantasía (lean el "Pricipe de las Espinasq ")
+      - Fantasía (lean el "Principe de las Espinas")
       - Historia (lean la saga "Los reyes malditos")
       - Escalada
 
