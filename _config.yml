@@ -9,7 +9,7 @@ version: 2
 name: Luis Dimotta Bré
 title: Economista Especializado en Finanzas
 email: luisndimotta@gmail.com
-phone: +549-2213068543
+#phone: +549-2213068543
 
 # Dark Mode (true/false/never)
 darkmode: true
