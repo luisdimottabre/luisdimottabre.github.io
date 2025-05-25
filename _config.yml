@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Luis Dimotta Bré
-title: Economista Especializado en Finanzas
+title: Economista especializado en Finanzas
 email: luisndimotta@gmail.com
-#phone: +549-2213068543
+# phone: +549-2213068543
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -29,10 +29,10 @@ linkedin_username: luis-dimotta-bre
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,7 +44,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: ¿Quién soy?
+about_title: ¿Quién soy?
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, me llamo Luis y soy un economista graduado en la Universidad Nacional de La Plata. Tengo una pasión
@@ -52,38 +52,19 @@ about_content: | # this will include new lines to allow paragraphs
 
   Soy más habilidoso con: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark>.
 
-
-#  - title: Proyectos # Title for the section
-#    layout: list # Type of content section (list/text)
-#    content:
-#      - layout: top-middle
-#        title: Super awesome project
-#        link: github.com/sproogen
-#        # link_text: Project Website
-#        additional_links:
-#          - title:  sproogen/modern-resume-theme
-#            icon: fab fa-github
-#            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#        quote: >
-#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#        description: | # this will include new lines to allow paragraphs
-#        I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm #        very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 content:
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Consultor pasante - Zaffi
+        title: Consultor pasante en Zaffi
         sub_title: Coequipo
         caption: Agosto 2024 - Diciembre 2024
         description: | # this will include new lines to allow paragraphs
           Participé en la provisión de servicios de consultoría para la empresa de aberturas Zaffi, enfocados en la optimización de procesos y el perfeccionamiento de estructuras organizacionales. Colaboré en un equipo auditor en la identificación de ineficiencias operativas y el diseño de soluciones estratégicas, contribuyendo directamente a la mejora de la eficiencia y rentabilidad de los negocios de los clientes.
 
       - layout: left
-        title: Becario de investigación - Programa Pulso
+        title: Becario de investigación Programa Pulso
         sub_title: Secretaría de Extensión Universitaria
         caption: Septiembre 2023 - Mayo 2024
         description: | # this will include new lines to allow paragraphs
@@ -97,7 +78,7 @@ content:
           Responsable de guiar a más de 2 startups a través del programa de aceleración, estableciendo objetivos claros y desarrollando planes de acción para alcanzar hitos clave de negocio y financiamiento. Asesoré junto a un equipo de expertos en la formulación de estrategias de crecimiento, optimización de modelos de negocio y preparación para rondas de inversión, contribuyendo al desarrollo y escalabilidad de los proyectos.
 
       - layout: left
-        title: Ayudante adjunto - Introducción a la economía
+        title: Ayudante adjunto Introducción a la economía
         sub_title: Universidad Nacional de La Plata
         caption: Abril 2022 - Agosto 2024
         description: | # this will include new lines to allow paragraphs
@@ -119,44 +100,45 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: FMAX: Financial Market Analysis
+        title: FMAX - Financial Market Analysis
         sub_title: Fondo Monetario Internacional
         caption: Febrero 2025 - Abril 2025
-        description: |
-          Instrumentos financieros, estructura temporal de tasas de interés, asignación de portafolio y gestión de riesgo.
+        description: | # this will include new lines to allow paragraphs
+          Curso especializado en análisis de mercados financieros que abarca la valoración de instrumentos del mercado monetario, bonos y acciones. Se enfocó en relacionar las diferencias de valoración de acciones individuales y mercados con los fundamentos económicos subyacentes, desarrollando competencias para construir portafolios óptimos de activos riesgosos mediante el cálculo de Value at Risk (VaR) y evaluar cambios en su composición según las condiciones macroeconómicas.
 
       - layout: left
         title: Programa de formación
         sub_title: Bolsa de Comercio de Rosario
         caption: Mayo 2023 - Octubre 2024
-        description: |
-          Especialización en Mercado de Capitales, Trading de derivados y Administración y Back-Office del mercado de granos.
+        description: | # this will include new lines to allow paragraphs
+          Programa integral de capacitación diseñado para la comprensión del funcionamiento y lógica de los diferentes mercados financieros y de commodities. Mi formación se estructuró en tres etapas progresivas: fundamentos de comercialización de granos, mercado ganadero, mercado de capitales, futuros y opciones La segunda etapa profundizó en el ciclo intermedio de mercado de capitales, opciones sobre futuros, estrategias de cobertura con futuros y opciones, e introducción a la programación en Python. En la tercera etapa me especialicé en trading de derivados, ciclo final de mercado de capitales y administración y back-office del mercado de granos.
 
       - layout: left
         title: Seminario de Data Science con Python
         sub_title: Universidad Nacional de La Plata
         caption: Junio 2022 - Diciembre 2022
-        description: |
-          Programa enfocado a la ciencia de datos, inteligencia artificial y machine learning usando Python.
+        description: | # this will include new lines to allow paragraphs
+          Programa integral de formación en ciencia de datos que abarca desde los fundamentos conceptuales hasta la implementación práctica de algoritmos de machine learning. Se desarrollaron competencias técnicas en Python mediante la manipulación y análisis de datos utilizando Pandas, Matplotlib y Seaborn para estadística descriptiva y visualización de datos. Posteriormente, se introdujeron los paradigmas supervisado y no supervisado de machine learning, cubriendo conceptos fundamentales como la diferencia entre inferencia y predicción, el trade-off entre sesgo y varianza, y técnicas para evitar overfitting.
 
   - title: ¿Qué hago cuando no estoy en frente de una pantalla?
     layout: text
     content: | # this will include new lines to allow paragraphs
-        *Lo que busco por encima de todo es la grandeza, lo que es grande es siempre bello*
+      <p style="text-align: center; font-style: italic; margin: 20px 0;">Lo que busco por encima de todo es la grandeza, lo que es grande es siempre bello</p>
+      
+      Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita con amigos o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
+      - Fútbol
+      - Ciencia ficción (lean el *"Problema de los Tres Cuerpos"*)
+      - Fantasía (lean el *"Principe de las Espinas"*)
+      - Historia (lean la saga de *"Los reyes malditos"*)
+      - Senderismo
 
-        Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
-            - Fútbol
-            - Ciencia ficción (lean el "Problema de los Tres Cuerpos")
-            - Fantasía (lean el "Principe de las Espinas")
-            - Historia (lean la saga "Los reyes malditos")
-            - Escalada
+      Por último, les dejo una de mis pinturas favoritas de Nasmith sobre El Silmarillion:
 
-            Por último, les dejo una de mis pinturas favoritas de Nasmith:
+      <img src="images/gondolin.jpeg" alt="Tuor llega a Gondolin" style="width: 600px; height: auto; display: block; margin: 20px auto;">
 
-            ![Tuor llega a Gondolin](images/gondolin.jpeg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title:
 
 # Build settings
