@@ -9,7 +9,7 @@ version: 2
 name: Luis Dimotta Bré
 title: Economista Especializado en Finanzas
 email: luisndimotta@gmail.com
-website: www.github.com/sproogen/resume-theme
+phone: +5492213068543
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -21,7 +21,7 @@ github_username: luisdimottabre
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-linkedin_username: Luis Dimotta Bré
+linkedin_username: luis-dimotta-bre
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -44,68 +44,109 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: ¿Quién soy?
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, me llamo Luis y soy un economista graduado
-  en la Universidad Nacional de La Plata. Tengo una pasión
-  por las finanzas de la manera en que la define Robert Shiller,
-  "una ingenieria para lograr objetivos". Estoy buscando la oportunidad de desarrollar mi carrera en el Mercado de Capitales, aunque tambien considero que la Energía y los Agronegocios tienen su rol en el futuro. Hasta este punto de mi vida trabaje en consultorias y en la facultad de economía, disciplina y liderazgo en el proceso.
+  Hola, me llamo Luis y soy un economista graduado en la Universidad Nacional de La Plata. Tengo una pasión
+  por las finanzas de la manera en que la define Robert Shiller, "una ingenieria para lograr objetivos". Estoy buscando la oportunidad de desarrollar mi carrera en el Mercado de Capitales, aunque tambien considero que la Energía y los Agronegocios tienen su rol en el futuro. Hasta este punto de mi vida, he trabajado en consultorías y en la facultad de economía, desarrollando disciplina y liderazgo en el proceso.
 
-  Soy más habilidoso en: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark>, con una maestría en <mark>Comer Pastas</mark>.
+  Soy más habilidoso con: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark>.
 
-content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+#content:
+#  - title: Proyectos # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: top-middle
+#        title: Super awesome project
+#        link: github.com/sproogen
+#        # link_text: Project Website
+#        additional_links:
+#          - title:  sproogen/modern-resume-theme
+#            icon: fab fa-github
+#            url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+#        quote: >
+#          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+#        description: | # this will include new lines to allow paragraphs
+#        I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm #        very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  - title: Experience # Title for the section
+  - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Consultor pasante - Zaffi
+        sub_title: Coequipo
+        caption: Agosto 2024 - Diciembre 2024
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Participé en la provisión de servicios de consultoría para la empresa de aberturas Zaffi, enfocados en la optimización de procesos y el perfeccionamiento de estructuras organizacionales. Colaboré en un equipo auditor en la identificación de ineficiencias operativas y el diseño de soluciones estratégicas, contribuyendo directamente a la mejora de la eficiencia y rentabilidad de los negocios de los clientes.
 
-  - title: Education # Title for the section
+      - layout: left
+        title: Becario de investigación - Programa Pulso
+        sub_title: Secretaría de Extensión Universitaria
+        caption: Septiembre 2023 - Mayo 2024
+        description: | # this will include new lines to allow paragraphs
+          Contribuí al diseño y armado técnico-metodológico de un directorio integral de ONGs para La Plata y alrededores, ampliando la base de datos de 100 a más de 1.000 organizaciones. Esto se logró mediante la aplicación de técnicas avanzadas de web-scraping y rigurosos procesos de validación de datos, mejorando significativamente la disponibilidad y calidad de información para la Secretaría de Extensión Universitaria.
+
+      - layout: left
+        title: Startup Advisor
+        sub_title: Usina de Ideas
+        caption: Abril 2023 - Febrero 2024
+        description: | # this will include new lines to allow paragraphs
+          Responsable de guiar a más de 2 startups a través del programa de aceleración, estableciendo objetivos claros y desarrollando planes de acción para alcanzar hitos clave de negocio y financiamiento. Asesoré junto a un equipo de expertos en la formulación de estrategias de crecimiento, optimización de modelos de negocio y preparación para rondas de inversión, contribuyendo al desarrollo y escalabilidad de los proyectos.
+
+      - layout: left
+        title: Ayudante adjunto - Introducción a la economía
+        sub_title: Universidad Nacional de La Plata
+        caption: Abril 2022 - Agosto 2024
+        description: | # this will include new lines to allow paragraphs
+          Apoyé y asistí a más de 200 ingresantes anuales en la comprensión de los fundamentos económicos y el desarrollo de sus capacidades analíticas, contribuyendo a su éxito en la asignatura y colaboré activamente en la enseñanza y resolución de dudas, facilitando la adaptación de los estudiantes al entorno universitario y a los contenidos de la materia.
+
+  - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Licenciatura en Ciencias Económicas
+        sub_title: Universidad Nacional de La Plata
+        caption: Marzo 2018 - Diciembre 2024
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Lo que busco por encima de todo es la grandeza: lo que es grande es siempre bello
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Durante mi licenciatura, adquirí una sólida base en análisis macroeconómico y comercio internacional. Desarrollé habilidades en limpieza, validación y visualización de grandes bases de datos utilizando Python, Stata y Excel avanzado.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Cursos # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: FMAX: Financial Market Analysis
+        sub_title: Fondo Monetario Internacional
+        caption: Febrero 2025 - Abril 2025
+        description: |
+          Instrumentos financieros, estructura temporal de tasas de interés, asignación de portafolio y gestión de riesgo.
 
-  - title: A Little More About Me
+      - layout: left
+        title: Programa de formación
+        sub_title: Bolsa de Comercio de Rosario
+        caption: Mayo 2023 - Octubre 2024
+        description: |
+          Especialización en Mercado de Capitales, Trading de derivados y Administración y Back-Office del mercado de granos.
+
+      - layout: left
+        title: Seminario de Data Science con Python
+        sub_title: Universidad Nacional de La Plata
+        caption: Junio 2022 - Diciembre 2022
+        description: |
+          Programa enfocado a la ciencia de datos, inteligencia artificial y machine learning usando Python.
+
+  - title: ¿Qué hago cuando no estoy en frente de una pantalla?
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
+    quote: >
+          Lo que busco por encima de todo es la grandeza: lo que es grande es siempre bello
+
+    description: |
+      Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
       - Fútbol
       - Ciencia ficción (lean el "Problema de los Tres Cuerpos")
       - Fantasía (lean el "Pricipe de las Espinasq ")
@@ -113,6 +154,7 @@ content:
       - Escalada
 
       Por último, les dejo una de mis pinturas favoritas de Nasmith:
+
       ![Tuor llega a Gondolin](images/gondolin.jpeg)
 
 # Footer
