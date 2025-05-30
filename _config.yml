@@ -1,3 +1,5 @@
+head: <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 # Site
 repository: luisdimottabre/luisdimottabre.github.io
 favicon: images/favicon.ico
@@ -57,10 +59,16 @@ content:
     layout: list # Type of content section (list/text)
     border: strong # ojo acá
     content:
-      - layout: left
-        title: Licenciatura en Ciencias Económicas
+      - layout: top-left
+        title: Licenciatura en Economía
         sub_title: Universidad Nacional de La Plata
+        link: https://depeco.econo.unlp.edu.ar
+        link_text: Departamento de Economía
         caption: Marzo 2018 - Diciembre 2024
+        #additional_links:
+        #  - title: Universidad Nacional de La Plata
+        #    icon: fas fa-university
+        #    url: https://depeco.econo.unlp.edu.ar
         description: | # this will include new lines to allow paragraphs
             > *Todavía tengo que ver un problema, por complicado que sea, que al mirarlo de forma correcta no se vuelva aún más complicado*.
             <br>– <strong>Poul Anderson</strong>
@@ -73,7 +81,8 @@ content:
       - layout: left
         border: weak
         title: Consultor pasante en Zaffi
-        sub_title: Coequipo
+        link: https://www.econo.unlp.edu.ar/proyectos/coequipo-7705
+        link_text : Coequipo
         caption: Agosto 2024 - Diciembre 2024
         description: | # this will include new lines to allow paragraphs
           Participé en la provisión de servicios de consultoría para la empresa de aberturas Zaffi, donde nos enfocamos en la optimización de procesos y el perfeccionamiento de sus estructuras organizacionales. Se logró la identificación de ineficiencias operativas y se diseñaron soluciones acordes, contribuyendo directamente a la mejora de la eficiencia y rentabilidad del negocio de Zaffi.
@@ -81,7 +90,8 @@ content:
       - layout: left
         border: weak
         title: Becario de investigación Programa Pulso
-        sub_title: Secretaría de Extensión Universitaria
+        link: https://www.econo.unlp.edu.ar/extension/pulso-9516
+        link_text: Secretaría de Extensión Universitaria
         caption: Septiembre 2023 - Mayo 2024
         description: | # this will include new lines to allow paragraphs
           Contribuí al diseño y armado técnico-metodológico de un directorio de organizaciones de la sociedad civil (OSC) para La Plata y alrededores, ampliando la base de datos de 100 a más de 1.000 organizaciones. Esto se logró mediante la aplicación de técnicas básicas de web-scraping y rigurosos procesos de validación de datos, mejorando significativamente la disponibilidad y calidad de información para la Secretaría de Extensión Universitaria.
@@ -89,7 +99,8 @@ content:
       - layout: left
         border: weak
         title: Startup Advisor
-        sub_title: Usina de Ideas
+        link: https://www.instagram.com/usinadeideasunlp/?hl=es-la
+        link_text: Usina de Ideas
         caption: Abril 2023 - Febrero 2024
         description: | # this will include new lines to allow paragraphs
           Responsable de guiar a 2 startups a través del programa de aceleración y semillero, estableciendo objetivos claros y desarrollando planes de acción para alcanzar hitos clave de negocio y financiamiento. Asesoré junto a un equipo de expertos en la formulación de estrategias de crecimiento, optimización de modelos de negocio y preparación para rondas de inversión, contribuyendo al desarrollo y escalabilidad de los proyectos.
@@ -108,6 +119,8 @@ content:
         border: weak
         title: FMAX - Financial Market Analysis
         sub_title: Fondo Monetario Internacional
+        link: https://courses.edx.org/certificates/0675940c02984a2bbb93a23f202216e4
+        link_text : Certificado
         caption: Febrero 2025 - Abril 2025
         description: | # this will include new lines to allow paragraphs
           Curso especializado en análisis de mercados financieros que abarca la valoración de instrumentos del mercado monetario, bonos y acciones en Excel. Se enfocó en relacionar las diferencias de valoración de acciones individuales y mercados con los fundamentos económicos subyacentes, desarrollando competencias para construir portafolios óptimos de activos riesgosos mediante el cálculo de Value at Risk (VaR) y evaluar cambios en su composición según las condiciones macroeconómicas.
@@ -116,6 +129,7 @@ content:
         border: weak
         title: Programa de formación
         sub_title: Bolsa de Comercio de Rosario
+        link:
         caption: Mayo 2023 - Octubre 2024
         description: | # this will include new lines to allow paragraphs
           Programa integral de capacitación diseñado para la comprensión del funcionamiento y lógica de los diferentes mercados financieros y de commodities. Mi formación se estructuró en tres etapas progresivas: fundamentos de comercialización de granos, mercado ganadero, mercado de capitales, futuros y opciones La segunda etapa profundizó en el ciclo intermedio de mercado de capitales, opciones sobre futuros, estrategias de cobertura con futuros y opciones, e introducción a la programación en Python. En la tercera etapa me especialicé en trading de derivados, ciclo final de mercado de capitales y administración y back-office del mercado de granos.
@@ -123,6 +137,8 @@ content:
       - layout: left
         title: Seminario de Data Science con Python
         sub_title: Universidad Nacional de La Plata
+        link: https://www.econo.unlp.edu.ar/frontend/media/78/25578/0334a8f423fee0d8d460bf4d0026a078.pdf
+        link_text: Contenido del Seminario
         caption: Junio 2022 - Diciembre 2022
         description: | # this will include new lines to allow paragraphs
           Programa integral de formación en ciencia de datos que abarca desde los fundamentos conceptuales hasta la implementación práctica de algoritmos de machine learning. Se desarrollaron competencias técnicas en Python mediante la manipulación y análisis de datos utilizando Pandas, Matplotlib y Seaborn para estadística descriptiva y visualización de datos. Posteriormente, se introdujeron los paradigmas supervisado y no supervisado de machine learning, cubriendo conceptos fundamentales como la diferencia entre inferencia y predicción, el trade-off entre sesgo y varianza, y técnicas para evitar overfitting.
