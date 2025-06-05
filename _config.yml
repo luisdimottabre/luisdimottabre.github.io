@@ -49,10 +49,15 @@ linkedin_username: luis-dimotta-bre
 about_title: ¿Quién soy?
 about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, me llamo Luis y soy un economista graduado en la Universidad Nacional de La Plata. Tengo una pasión
-  por las finanzas de la manera en que la define Robert Shiller, "una ingenieria para lograr objetivos". Estoy buscando la oportunidad de desarrollar mi carrera en el Mercado de Capitales, aunque tambien considero que la Energía y los Agronegocios tienen su rol en el futuro. Hasta este punto de mi vida, he trabajado en consultorías y en la facultad de economía, desarrollando pensamiento analítico, resiliencia, disciplina y adaptabilidad en el proceso.
+    Hola, soy Luis, economista graduado de la Universidad Nacional de La Plata. Siempre me interesó entender cómo se logran las grandes hazañas y proyectos en la vida, y cómo esos eventos influyen en las personas, las empresas y los países.
 
-  Soy más habilidoso con: <mark>STATA</mark>, <mark>Python</mark> y <mark>R</mark> y obviamente <mark>Excel</mark>.
+    Con el tiempo descubrí que las finanzas son el lenguaje en el que muchas de esas transformaciones se hacen posibles. Me apasionan porque traducen decisiones complejas en estructuras que organizan riesgos, objetivos e incentivos. Me atrapan porque —como dice Robert Shiller— son una forma de ingeniería para alcanzar metas. Esa mirada en particular me inspira: pensar las finanzas como una herramienta para construir el futuro.
+
+    Estoy buscando oportunidades para desarrollar mi carrera en el Mercado de Capitales, aunque también me interesan sectores estratégicos como la Energía y los Agronegocios, que considero fundamentales para el futuro económico.
+
+    Hasta ahora, trabajé en consultoría y en la Facultad de Ciencias Económicas, donde desarrollé una base sólida en pensamiento analítico, resiliencia, disciplina y adaptabilidad.
+
+    Mis principales herramientas de trabajo son <mark>Stata</mark>, <mark>Python</mark>, <mark>R</mark> y, por supuesto, <mark>Excel</mark>, con los que disfruto transformar datos en decisiones.
 
 content:
   - title: Educación # Title for the section
@@ -73,7 +78,12 @@ content:
             > *Todavía tengo que ver un problema, por complicado que sea, que al mirarlo de forma correcta no se vuelva aún más complicado*.
             <br>– <strong>Poul Anderson</strong>
 
-            La licenciatura me dio pocas herramientas duras (Stata y R fueron de las pocas), pero me dio la herramienta de los modelos y los paradigmas, la herramienta blanda de ver los fenómenos de cierta manera, porque no todo lo resuelve un martillo si no sabes si tenes que martillar, serruchar o hacer un agujero. Entender la economía es comprender que las multitudes tienen pasiones, no cerebros. Es precisamente esa comprensión la que busco aplicar para trascender el análisis y las perspectivas.
+            Durante la carrera aprendí que, más allá de las herramientas técnicas (como Stata o R), lo más valioso fue incorporar una forma de pensar. La formación en economía no siempre ofrece una caja de herramientas lista para usar, pero sí brinda algo más difícil de enseñar: modelos mentales y marcos conceptuales.
+
+            Entender la economía es entender que los agentes no siempre actúan racionalmente, que las decisiones colectivas están atravesadas por pasiones, instituciones y contextos. Aprender a mirar los fenómenos con múltiples lentes —y saber cuándo usar un martillo, un serrucho o una mecha— es lo que verdaderamente moldea mi forma de analizar.
+
+            Hoy, busco aplicar ese enfoque no solo para describir sino para intervenir con criterio en entornos complejos.
+
 
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
