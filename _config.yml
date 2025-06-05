@@ -125,6 +125,16 @@ content:
   - title: Cursos # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        border: weak
+        title: Microsoft Power BI Desktop for Business Intelligence
+        sub_title: Udemy
+        link: https://www.udemy.com/certificate/UC-f16166a4-5bb2-4215-8d3a-5c344f64a2df/
+        link_text : Certificado
+        caption: Mayo 2025 - Junio 2025
+        description: | # this will include new lines to allow paragraphs
+          El curso enseña a automatizar la carga y transformación de datos con Power Query, utilizando diversas fuentes y aplicando técnicas de limpieza y modelado. También se construyen modelos relacionales eficientes, aplicando buenas prácticas de modelado de datos. Luego, se introduce DAX para crear columnas y métricas calculadas, combinando funciones, contextos y lógica. Finalmente, se desarrollan dashboards interactivos, con visualizaciones efectivas, filtros, navegación y herramientas de optimización para compartir informes profesionales.
+
       - layout: left
         border: weak
         title: FMAX - Financial Market Analysis
@@ -160,7 +170,7 @@ content:
       <br>– <strong>Napoleón Bonaparte</strong>
       
       Cuando no estoy sentado frente a mi escritorio suelo vivir la vida en un gimnasio, pateando una pelotita con amigos o buscando la verdad en las cosas. Junto a mis intereses en finanzas y macroeconomía, suelo explorar los terrenos de:
-      - Fútbol.
+      - Análisis de Fútbol.
       - Ciencia ficción (lean el *"Problema de los Tres Cuerpos"*).
       - Fantasía (lean el *"Principe de las Espinas"*).
       - Historia (lean la saga de *"Los reyes malditos"*).
