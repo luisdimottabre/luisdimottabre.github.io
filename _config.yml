@@ -125,7 +125,7 @@ content:
   - title: Cursos # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
+      - layout: left
         border: weak
         title: Microsoft Power BI Desktop for Business Intelligence
         sub_title: Udemy
