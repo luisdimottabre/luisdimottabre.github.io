@@ -64,7 +64,7 @@ content:
     layout: list # Type of content section (list/text)
     border: strong # ojo acá
     content:
-      - layout: top-left
+      - layout: left
         title: Licenciatura en Economía
         sub_title: Universidad Nacional de La Plata
         link: https://depeco.econo.unlp.edu.ar
